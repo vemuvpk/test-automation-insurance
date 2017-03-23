@@ -1,0 +1,642 @@
+03 Oct 2014 08:29:29,215 TRACE ConfigurationValue: Using default key [webdriver] set to [org.openqa.selenium.firefox.FirefoxDriver]
+03 Oct 2014 08:29:29,220 TRACE ConfigurationValue: Using default key [webdriver.browsers] set to [firefox:21.0]
+03 Oct 2014 08:29:29,221 DEBUG TestConfiguration: WEBDRIVER JVM ARGS -------------------------------------------
+03 Oct 2014 08:29:29,221 DEBUG TestConfiguration: Sunrise URL: null
+03 Oct 2014 08:29:29,221 DEBUG TestConfiguration: Farm Motor Product: null
+03 Oct 2014 08:29:29,221 DEBUG TestConfiguration: Countrypak Product: null
+03 Oct 2014 08:29:29,221 DEBUG TestConfiguration: Hosted Mode: null
+03 Oct 2014 08:29:29,221 DEBUG TestConfiguration: Remote Driver Host: null
+03 Oct 2014 08:29:29,221 DEBUG TestConfiguration: Build Mode: null
+03 Oct 2014 08:29:29,222 DEBUG TestConfiguration: Company Id: null
+03 Oct 2014 08:29:29,222 DEBUG TestConfiguration: User Id: null
+03 Oct 2014 08:29:29,222 DEBUG TestConfiguration: Password: null
+03 Oct 2014 08:29:29,222 DEBUG TestConfiguration: Client Id: null
+03 Oct 2014 08:29:29,222 DEBUG TestConfiguration: Insured Id: null
+03 Oct 2014 08:29:29,222 DEBUG TestConfiguration: --------------------------------------------------------------
+03 Oct 2014 08:29:29,222 DEBUG TestConfiguration: Validating from jvmArgsProvided and are : false
+03 Oct 2014 08:29:29,224 DEBUG TestConfiguration: RUNNING LOCAL MODE using default login and client details hardcoded
+03 Oct 2014 08:29:29,224 DEBUG TestConfiguration: ALL JVM args not provided so switching to local mode
+03 Oct 2014 08:29:29,603 ERROR 0: Unable to launch RemoteWebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.6.0_65'
+Driver info: driver.version: CapturingRemoteWebDriver
+03 Oct 2014 08:29:29,614 ERROR 0: Unable to launch RemoteWebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.6.0_65'
+Driver info: driver.version: CapturingRemoteWebDriver
+03 Oct 2014 08:29:29,622 ERROR 0: Unable to launch RemoteWebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.6.0_65'
+Driver info: driver.version: CapturingRemoteWebDriver
+03 Oct 2014 08:29:29,629 ERROR 0: Unable to launch RemoteWebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.6.0_65'
+Driver info: driver.version: CapturingRemoteWebDriver
+03 Oct 2014 08:29:29,634 ERROR 0: Unable to launch RemoteWebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.6.0_65'
+Driver info: driver.version: CapturingRemoteWebDriver
+03 Oct 2014 08:44:02,055 TRACE ConfigurationValue: Using default key [webdriver] set to [org.openqa.selenium.firefox.FirefoxDriver]
+03 Oct 2014 08:44:02,059 TRACE ConfigurationValue: Using default key [webdriver.browsers] set to [firefox:21.0]
+03 Oct 2014 08:44:02,060 DEBUG TestConfiguration: WEBDRIVER JVM ARGS -------------------------------------------
+03 Oct 2014 08:44:02,060 DEBUG TestConfiguration: Sunrise URL: null
+03 Oct 2014 08:44:02,061 DEBUG TestConfiguration: Farm Motor Product: null
+03 Oct 2014 08:44:02,061 DEBUG TestConfiguration: Countrypak Product: null
+03 Oct 2014 08:44:02,061 DEBUG TestConfiguration: Hosted Mode: null
+03 Oct 2014 08:44:02,061 DEBUG TestConfiguration: Remote Driver Host: null
+03 Oct 2014 08:44:02,061 DEBUG TestConfiguration: Build Mode: null
+03 Oct 2014 08:44:02,061 DEBUG TestConfiguration: Company Id: null
+03 Oct 2014 08:44:02,061 DEBUG TestConfiguration: User Id: null
+03 Oct 2014 08:44:02,061 DEBUG TestConfiguration: Password: null
+03 Oct 2014 08:44:02,062 DEBUG TestConfiguration: Client Id: null
+03 Oct 2014 08:44:02,062 DEBUG TestConfiguration: Insured Id: null
+03 Oct 2014 08:44:02,062 DEBUG TestConfiguration: --------------------------------------------------------------
+03 Oct 2014 08:44:02,062 DEBUG TestConfiguration: Validating from jvmArgsProvided and are : false
+03 Oct 2014 08:44:02,064 DEBUG TestConfiguration: RUNNING LOCAL MODE using default login and client details hardcoded
+03 Oct 2014 08:44:02,064 DEBUG TestConfiguration: ALL JVM args not provided so switching to local mode
+03 Oct 2014 08:44:02,391 ERROR 0: Unable to launch RemoteWebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.6.0_65'
+Driver info: driver.version: CapturingRemoteWebDriver
+03 Oct 2014 08:44:02,401 ERROR 0: Unable to launch RemoteWebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.6.0_65'
+Driver info: driver.version: CapturingRemoteWebDriver
+03 Oct 2014 08:44:02,410 ERROR 0: Unable to launch RemoteWebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.6.0_65'
+Driver info: driver.version: CapturingRemoteWebDriver
+03 Oct 2014 08:44:02,418 ERROR 0: Unable to launch RemoteWebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.6.0_65'
+Driver info: driver.version: CapturingRemoteWebDriver
+03 Oct 2014 08:44:02,423 ERROR 0: Unable to launch RemoteWebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.5', java.version: '1.6.0_65'
+Driver info: driver.version: CapturingRemoteWebDriver
+21 Oct 2014 11:31:41,864 TRACE ConfigurationValue: Using default key [webdriver] set to [org.openqa.selenium.firefox.FirefoxDriver]
+21 Oct 2014 11:31:41,869 TRACE ConfigurationValue: Using default key [webdriver.browsers] set to [firefox:21.0]
+21 Oct 2014 11:31:41,870 DEBUG TestConfiguration: WEBDRIVER JVM ARGS -------------------------------------------
+21 Oct 2014 11:31:41,871 DEBUG TestConfiguration: Sunrise URL: null
+21 Oct 2014 11:31:41,871 DEBUG TestConfiguration: Farm Motor Product: null
+21 Oct 2014 11:31:41,871 DEBUG TestConfiguration: Countrypak Product: null
+21 Oct 2014 11:31:41,871 DEBUG TestConfiguration: Hosted Mode: null
+21 Oct 2014 11:31:41,871 DEBUG TestConfiguration: Remote Driver Host: null
+21 Oct 2014 11:31:41,872 DEBUG TestConfiguration: Build Mode: null
+21 Oct 2014 11:31:41,872 DEBUG TestConfiguration: Company Id: null
+21 Oct 2014 11:31:41,872 DEBUG TestConfiguration: User Id: null
+21 Oct 2014 11:31:41,872 DEBUG TestConfiguration: Password: null
+21 Oct 2014 11:31:41,872 DEBUG TestConfiguration: Client Id: null
+21 Oct 2014 11:31:41,873 DEBUG TestConfiguration: Insured Id: null
+21 Oct 2014 11:31:41,873 DEBUG TestConfiguration: --------------------------------------------------------------
+21 Oct 2014 11:31:41,873 DEBUG TestConfiguration: Validating from jvmArgsProvided and are : false
+21 Oct 2014 11:31:41,875 DEBUG TestConfiguration: RUNNING LOCAL MODE using default login and client details hardcoded
+21 Oct 2014 11:31:41,876 DEBUG TestConfiguration: ALL JVM args not provided so switching to local mode
+21 Oct 2014 11:31:51,398 ERROR 0: Unable to launch RemoteWebDriver: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Error Message</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<STYLE id=L_11004_1>A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #005a80; FONT-FAMILY: tahoma
+}
+A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0d3372; FONT-FAMILY: tahoma
+}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: tahoma
+}
+TD.titleBorder {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 0px solid; COLOR: #955319; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+TD.titleBorder_x {
+	BORDER-RIGHT: #955319 0px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 1px solid; COLOR: #978c79; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+.TitleDescription {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: black; FONT-FAMILY: tahoma
+}
+SPAN.explain {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+SPAN.TryThings {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+.TryList {
+	MARGIN-TOP: 5px; FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: tahoma
+}
+.X {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12pt; BORDER-LEFT: #955319 1px solid; COLOR: #7b3807; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #d1c2b4
+}
+.adminList {
+	MARGIN-TOP: 2px
+}
+</STYLE>
+<META content="MSHTML 6.00.2800.1170" name=GENERATOR></HEAD>
+<BODY bgColor=#f3f3ed>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD class=titleborder_x width=30>
+      <TABLE height=25 cellSpacing=2 cellPadding=0 width=25 bgColor=black>
+        <TBODY>
+        <TR>
+          <TD class=x vAlign=center align=middle>X</TD>
+        </TR>
+        </TBODY>
+      </TABLE>
+    </TD>
+    <TD class=titleBorder id=L_11004_2>Network Access Message:<SPAN class=TitleDescription> The website cannot be found</SPAN> </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer>
+  <TBODY>
+  <TR>
+    <TD height=10></TD></TR></TBODY></TABLE>
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400><SPAN class=explain><ID id=L_11004_3><B>Explanation:</B></ID></SPAN><ID id=L_11004_4> An IP address for the website you requested could not be found. As a result, it was not possible to access the site. </ID><BR><BR>
+    <B><SPAN class=tryThings><ID id=L_11004_5><B>Try the following:</B></ID></SPAN></B> 
+      <UL class=TryList>
+        <LI id=L_11004_6><B>Refresh page:</B> Search for the page again by clicking the Refresh button. The timeout may have occurred due to Internet congestion.
+<LI id=L_11004_7><B>Check spelling:</B> Check that you typed the Web page address correctly. The address may have been mistyped.
+<LI id=L_11004_8><B>Access from a link:</B> If there is a link to the page you are looking for, try accessing the page from that link.
+
+      </UL>
+<ID id=L_11004_9>If you are still not able to view the requested page, try contacting your administrator or Helpdesk.</ID> <BR><BR>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer><TBODY><TR><TD height=15></TD></TR></TBODY></TABLE>
+
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400 id=L_11004_10><B>Technical Information (for support personnel)</B> 
+      <UL class=adminList>
+        <LI id=L_11004_11>Error Code 11004: Host not found
+<LI id=L_11004_12>Background: This error indicates that the gateway could not find the IP address of the website you are trying to access, possibly due to lack of information in the DNS server.
+<LI id=L_11004_13>Date: 21/10/2014 12:31:53 AM [GMT]
+<LI id=L_11004_14>Server: nwnshsisa02.news.newslimited.local
+<LI id=L_11004_15>Source: DNS error
+
+      </UL>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+Command duration or timeout: 9.20 seconds
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10', java.version: '1.6.0_65'
+Driver info: au.com.cgu.harvest.automation.driver.CapturingRemoteWebDriver
+21 Oct 2014 11:32:00,571 ERROR 0: Unable to launch RemoteWebDriver: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Error Message</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<STYLE id=L_11004_1>A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #005a80; FONT-FAMILY: tahoma
+}
+A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0d3372; FONT-FAMILY: tahoma
+}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: tahoma
+}
+TD.titleBorder {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 0px solid; COLOR: #955319; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+TD.titleBorder_x {
+	BORDER-RIGHT: #955319 0px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 1px solid; COLOR: #978c79; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+.TitleDescription {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: black; FONT-FAMILY: tahoma
+}
+SPAN.explain {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+SPAN.TryThings {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+.TryList {
+	MARGIN-TOP: 5px; FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: tahoma
+}
+.X {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12pt; BORDER-LEFT: #955319 1px solid; COLOR: #7b3807; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #d1c2b4
+}
+.adminList {
+	MARGIN-TOP: 2px
+}
+</STYLE>
+<META content="MSHTML 6.00.2800.1170" name=GENERATOR></HEAD>
+<BODY bgColor=#f3f3ed>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD class=titleborder_x width=30>
+      <TABLE height=25 cellSpacing=2 cellPadding=0 width=25 bgColor=black>
+        <TBODY>
+        <TR>
+          <TD class=x vAlign=center align=middle>X</TD>
+        </TR>
+        </TBODY>
+      </TABLE>
+    </TD>
+    <TD class=titleBorder id=L_11004_2>Network Access Message:<SPAN class=TitleDescription> The website cannot be found</SPAN> </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer>
+  <TBODY>
+  <TR>
+    <TD height=10></TD></TR></TBODY></TABLE>
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400><SPAN class=explain><ID id=L_11004_3><B>Explanation:</B></ID></SPAN><ID id=L_11004_4> An IP address for the website you requested could not be found. As a result, it was not possible to access the site. </ID><BR><BR>
+    <B><SPAN class=tryThings><ID id=L_11004_5><B>Try the following:</B></ID></SPAN></B> 
+      <UL class=TryList>
+        <LI id=L_11004_6><B>Refresh page:</B> Search for the page again by clicking the Refresh button. The timeout may have occurred due to Internet congestion.
+<LI id=L_11004_7><B>Check spelling:</B> Check that you typed the Web page address correctly. The address may have been mistyped.
+<LI id=L_11004_8><B>Access from a link:</B> If there is a link to the page you are looking for, try accessing the page from that link.
+
+      </UL>
+<ID id=L_11004_9>If you are still not able to view the requested page, try contacting your administrator or Helpdesk.</ID> <BR><BR>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer><TBODY><TR><TD height=15></TD></TR></TBODY></TABLE>
+
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400 id=L_11004_10><B>Technical Information (for support personnel)</B> 
+      <UL class=adminList>
+        <LI id=L_11004_11>Error Code 11004: Host not found
+<LI id=L_11004_12>Background: This error indicates that the gateway could not find the IP address of the website you are trying to access, possibly due to lack of information in the DNS server.
+<LI id=L_11004_13>Date: 21/10/2014 12:32:02 AM [GMT]
+<LI id=L_11004_14>Server: nwnshsisa02.news.newslimited.local
+<LI id=L_11004_15>Source: DNS error
+
+      </UL>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+Command duration or timeout: 9.17 seconds
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10', java.version: '1.6.0_65'
+Driver info: au.com.cgu.harvest.automation.driver.CapturingRemoteWebDriver
+21 Oct 2014 11:32:09,642 ERROR 0: Unable to launch RemoteWebDriver: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Error Message</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<STYLE id=L_11004_1>A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #005a80; FONT-FAMILY: tahoma
+}
+A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0d3372; FONT-FAMILY: tahoma
+}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: tahoma
+}
+TD.titleBorder {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 0px solid; COLOR: #955319; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+TD.titleBorder_x {
+	BORDER-RIGHT: #955319 0px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 1px solid; COLOR: #978c79; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+.TitleDescription {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: black; FONT-FAMILY: tahoma
+}
+SPAN.explain {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+SPAN.TryThings {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+.TryList {
+	MARGIN-TOP: 5px; FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: tahoma
+}
+.X {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12pt; BORDER-LEFT: #955319 1px solid; COLOR: #7b3807; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #d1c2b4
+}
+.adminList {
+	MARGIN-TOP: 2px
+}
+</STYLE>
+<META content="MSHTML 6.00.2800.1170" name=GENERATOR></HEAD>
+<BODY bgColor=#f3f3ed>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD class=titleborder_x width=30>
+      <TABLE height=25 cellSpacing=2 cellPadding=0 width=25 bgColor=black>
+        <TBODY>
+        <TR>
+          <TD class=x vAlign=center align=middle>X</TD>
+        </TR>
+        </TBODY>
+      </TABLE>
+    </TD>
+    <TD class=titleBorder id=L_11004_2>Network Access Message:<SPAN class=TitleDescription> The website cannot be found</SPAN> </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer>
+  <TBODY>
+  <TR>
+    <TD height=10></TD></TR></TBODY></TABLE>
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400><SPAN class=explain><ID id=L_11004_3><B>Explanation:</B></ID></SPAN><ID id=L_11004_4> An IP address for the website you requested could not be found. As a result, it was not possible to access the site. </ID><BR><BR>
+    <B><SPAN class=tryThings><ID id=L_11004_5><B>Try the following:</B></ID></SPAN></B> 
+      <UL class=TryList>
+        <LI id=L_11004_6><B>Refresh page:</B> Search for the page again by clicking the Refresh button. The timeout may have occurred due to Internet congestion.
+<LI id=L_11004_7><B>Check spelling:</B> Check that you typed the Web page address correctly. The address may have been mistyped.
+<LI id=L_11004_8><B>Access from a link:</B> If there is a link to the page you are looking for, try accessing the page from that link.
+
+      </UL>
+<ID id=L_11004_9>If you are still not able to view the requested page, try contacting your administrator or Helpdesk.</ID> <BR><BR>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer><TBODY><TR><TD height=15></TD></TR></TBODY></TABLE>
+
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400 id=L_11004_10><B>Technical Information (for support personnel)</B> 
+      <UL class=adminList>
+        <LI id=L_11004_11>Error Code 11004: Host not found
+<LI id=L_11004_12>Background: This error indicates that the gateway could not find the IP address of the website you are trying to access, possibly due to lack of information in the DNS server.
+<LI id=L_11004_13>Date: 21/10/2014 12:32:11 AM [GMT]
+<LI id=L_11004_14>Server: nwnshsisa02.news.newslimited.local
+<LI id=L_11004_15>Source: DNS error
+
+      </UL>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+Command duration or timeout: 9.07 seconds
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10', java.version: '1.6.0_65'
+Driver info: au.com.cgu.harvest.automation.driver.CapturingRemoteWebDriver
+21 Oct 2014 11:32:18,743 ERROR 0: Unable to launch RemoteWebDriver: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Error Message</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<STYLE id=L_11004_1>A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #005a80; FONT-FAMILY: tahoma
+}
+A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0d3372; FONT-FAMILY: tahoma
+}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: tahoma
+}
+TD.titleBorder {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 0px solid; COLOR: #955319; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+TD.titleBorder_x {
+	BORDER-RIGHT: #955319 0px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 1px solid; COLOR: #978c79; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+.TitleDescription {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: black; FONT-FAMILY: tahoma
+}
+SPAN.explain {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+SPAN.TryThings {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+.TryList {
+	MARGIN-TOP: 5px; FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: tahoma
+}
+.X {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12pt; BORDER-LEFT: #955319 1px solid; COLOR: #7b3807; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #d1c2b4
+}
+.adminList {
+	MARGIN-TOP: 2px
+}
+</STYLE>
+<META content="MSHTML 6.00.2800.1170" name=GENERATOR></HEAD>
+<BODY bgColor=#f3f3ed>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD class=titleborder_x width=30>
+      <TABLE height=25 cellSpacing=2 cellPadding=0 width=25 bgColor=black>
+        <TBODY>
+        <TR>
+          <TD class=x vAlign=center align=middle>X</TD>
+        </TR>
+        </TBODY>
+      </TABLE>
+    </TD>
+    <TD class=titleBorder id=L_11004_2>Network Access Message:<SPAN class=TitleDescription> The website cannot be found</SPAN> </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer>
+  <TBODY>
+  <TR>
+    <TD height=10></TD></TR></TBODY></TABLE>
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400><SPAN class=explain><ID id=L_11004_3><B>Explanation:</B></ID></SPAN><ID id=L_11004_4> An IP address for the website you requested could not be found. As a result, it was not possible to access the site. </ID><BR><BR>
+    <B><SPAN class=tryThings><ID id=L_11004_5><B>Try the following:</B></ID></SPAN></B> 
+      <UL class=TryList>
+        <LI id=L_11004_6><B>Refresh page:</B> Search for the page again by clicking the Refresh button. The timeout may have occurred due to Internet congestion.
+<LI id=L_11004_7><B>Check spelling:</B> Check that you typed the Web page address correctly. The address may have been mistyped.
+<LI id=L_11004_8><B>Access from a link:</B> If there is a link to the page you are looking for, try accessing the page from that link.
+
+      </UL>
+<ID id=L_11004_9>If you are still not able to view the requested page, try contacting your administrator or Helpdesk.</ID> <BR><BR>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer><TBODY><TR><TD height=15></TD></TR></TBODY></TABLE>
+
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400 id=L_11004_10><B>Technical Information (for support personnel)</B> 
+      <UL class=adminList>
+        <LI id=L_11004_11>Error Code 11004: Host not found
+<LI id=L_11004_12>Background: This error indicates that the gateway could not find the IP address of the website you are trying to access, possibly due to lack of information in the DNS server.
+<LI id=L_11004_13>Date: 21/10/2014 12:32:20 AM [GMT]
+<LI id=L_11004_14>Server: nwnshsisa02.news.newslimited.local
+<LI id=L_11004_15>Source: DNS error
+
+      </UL>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+Command duration or timeout: 9.10 seconds
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10', java.version: '1.6.0_65'
+Driver info: au.com.cgu.harvest.automation.driver.CapturingRemoteWebDriver
+21 Oct 2014 11:33:31,559 TRACE ConfigurationValue: Using default key [webdriver] set to [org.openqa.selenium.firefox.FirefoxDriver]
+21 Oct 2014 11:33:31,563 TRACE ConfigurationValue: Using default key [webdriver.browsers] set to [firefox:21.0]
+21 Oct 2014 11:33:31,564 DEBUG TestConfiguration: WEBDRIVER JVM ARGS -------------------------------------------
+21 Oct 2014 11:33:31,564 DEBUG TestConfiguration: Sunrise URL: null
+21 Oct 2014 11:33:31,564 DEBUG TestConfiguration: Farm Motor Product: null
+21 Oct 2014 11:33:31,564 DEBUG TestConfiguration: Countrypak Product: null
+21 Oct 2014 11:33:31,564 DEBUG TestConfiguration: Hosted Mode: null
+21 Oct 2014 11:33:31,565 DEBUG TestConfiguration: Remote Driver Host: null
+21 Oct 2014 11:33:31,565 DEBUG TestConfiguration: Build Mode: null
+21 Oct 2014 11:33:31,565 DEBUG TestConfiguration: Company Id: null
+21 Oct 2014 11:33:31,565 DEBUG TestConfiguration: User Id: null
+21 Oct 2014 11:33:31,565 DEBUG TestConfiguration: Password: null
+21 Oct 2014 11:33:31,565 DEBUG TestConfiguration: Client Id: null
+21 Oct 2014 11:33:31,565 DEBUG TestConfiguration: Insured Id: null
+21 Oct 2014 11:33:31,565 DEBUG TestConfiguration: --------------------------------------------------------------
+21 Oct 2014 11:33:31,566 DEBUG TestConfiguration: Validating from jvmArgsProvided and are : false
+21 Oct 2014 11:33:31,567 DEBUG TestConfiguration: RUNNING LOCAL MODE using default login and client details hardcoded
+21 Oct 2014 11:33:31,567 DEBUG TestConfiguration: ALL JVM args not provided so switching to local mode
+21 Oct 2014 11:33:41,059 ERROR 0: Unable to launch RemoteWebDriver: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Error Message</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<STYLE id=L_11004_1>A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #005a80; FONT-FAMILY: tahoma
+}
+A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0d3372; FONT-FAMILY: tahoma
+}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: tahoma
+}
+TD.titleBorder {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 0px solid; COLOR: #955319; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+TD.titleBorder_x {
+	BORDER-RIGHT: #955319 0px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 1px solid; COLOR: #978c79; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+.TitleDescription {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: black; FONT-FAMILY: tahoma
+}
+SPAN.explain {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+SPAN.TryThings {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+.TryList {
+	MARGIN-TOP: 5px; FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: tahoma
+}
+.X {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12pt; BORDER-LEFT: #955319 1px solid; COLOR: #7b3807; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #d1c2b4
+}
+.adminList {
+	MARGIN-TOP: 2px
+}
+</STYLE>
+<META content="MSHTML 6.00.2800.1170" name=GENERATOR></HEAD>
+<BODY bgColor=#f3f3ed>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD class=titleborder_x width=30>
+      <TABLE height=25 cellSpacing=2 cellPadding=0 width=25 bgColor=black>
+        <TBODY>
+        <TR>
+          <TD class=x vAlign=center align=middle>X</TD>
+        </TR>
+        </TBODY>
+      </TABLE>
+    </TD>
+    <TD class=titleBorder id=L_11004_2>Network Access Message:<SPAN class=TitleDescription> The website cannot be found</SPAN> </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer>
+  <TBODY>
+  <TR>
+    <TD height=10></TD></TR></TBODY></TABLE>
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400><SPAN class=explain><ID id=L_11004_3><B>Explanation:</B></ID></SPAN><ID id=L_11004_4> An IP address for the website you requested could not be found. As a result, it was not possible to access the site. </ID><BR><BR>
+    <B><SPAN class=tryThings><ID id=L_11004_5><B>Try the following:</B></ID></SPAN></B> 
+      <UL class=TryList>
+        <LI id=L_11004_6><B>Refresh page:</B> Search for the page again by clicking the Refresh button. The timeout may have occurred due to Internet congestion.
+<LI id=L_11004_7><B>Check spelling:</B> Check that you typed the Web page address correctly. The address may have been mistyped.
+<LI id=L_11004_8><B>Access from a link:</B> If there is a link to the page you are looking for, try accessing the page from that link.
+
+      </UL>
+<ID id=L_11004_9>If you are still not able to view the requested page, try contacting your administrator or Helpdesk.</ID> <BR><BR>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer><TBODY><TR><TD height=15></TD></TR></TBODY></TABLE>
+
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400 id=L_11004_10><B>Technical Information (for support personnel)</B> 
+      <UL class=adminList>
+        <LI id=L_11004_11>Error Code 11004: Host not found
+<LI id=L_11004_12>Background: This error indicates that the gateway could not find the IP address of the website you are trying to access, possibly due to lack of information in the DNS server.
+<LI id=L_11004_13>Date: 21/10/2014 12:33:42 AM [GMT]
+<LI id=L_11004_14>Server: nwnshsisa02.news.newslimited.local
+<LI id=L_11004_15>Source: DNS error
+
+      </UL>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+Command duration or timeout: 9.25 seconds
+Build info: version: '2.32.0', revision: '6c40c18', time: '2013-04-09 17:23:22'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10', java.version: '1.6.0_65'
+Driver info: au.com.cgu.harvest.automation.driver.CapturingRemoteWebDriver
